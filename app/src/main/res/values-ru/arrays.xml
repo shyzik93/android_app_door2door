@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Номер позиции = house_type -->
+    <string-array name="house_types">
+        <item>Частный дом</item>
+        <item>Многоквартирный дом</item>
+    </string-array>
+
+    <string-array name="street_types">
+        <item>Улица</item>
+        <item>Проспект</item>
+        <item>Шоссе</item>
+        <item>Набережная</item>
+        <item>Переулок</item>
+        <item>Бульвар</item>
+        <item>Тупик</item>
+    </string-array>
+</resources>

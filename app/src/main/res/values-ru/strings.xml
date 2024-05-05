@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Обход</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="text_main_interview">Опрос</string>
+    <string name="text_main_election">Голосование</string>
+    <string name="text_add_campaign">Добавить кампанию</string>
+    <string name="title_activity_select_campaign">Выберите кампанию</string>
+    <string name="text_add_street">Добавить улицу</string>
+    <string name="title_activity_select_street">Выберите улицу</string>
+    <string name="text_add_house">Добавить дом</string>
+    <string name="title_activity_select_house">Выберите дом</string>
+    <string name="title_activity_reaction">Результат посещения</string>
+    <string name="title_activity_campaign_add">Новая кампания</string>
+    <string name="title_activity_street_add">Новая улица</string>
+    <string name="title_activity_house_add">Новый дом</string>
+
+    <string name="region">Регион</string>
+    <string name="rayon">Район</string>
+    <string name="settlement">Населённый пункт</string>
+    <string name="campaign_fio">ФИО кандидата</string>
+    <string name="campaign_name">Название кампании/обхода</string>
+
+    <string name="street_name">Название улицы</string>
+    <string name="street_type">Тип улицы</string>
+
+    <string name="house_number">Номер дома</string>
+    <string name="house_type">Тип дома</string>
+
+    <string name="add">Добавить</string>
+
+    <string name="fmt_campaign_name">%1$s - %2$s</string>
+    <string name="fmt_settl_full_name">%1$s, %2$s, %3$s</string>
+
+    <string name="fmt_add_something">Добавить %1$s</string>
+    <string name="fmt_select_something">Выберите %1$s</string>
+    <string name="fmt_new_something_male">Новый %1$s</string>
+    <string name="fmt_new_something_female">Новая %1$s</string>
+
+    <string name="dative_case_house">дом</string>
+    <string name="dative_case_flat">квартиру</string>
+    <string name="nominative_case_house">дом</string>
+    <string name="nominative_case_flat">квартира</string>
+
+</resources>
